@@ -23,7 +23,7 @@ container created
 
 `emqx ctl admins passwd admin <your-pass>`
 
-- to access dashboard
+## to access dashboard
 
 http://server-ip:port1 # see above for port1
 
@@ -37,7 +37,8 @@ http://server-ip:port1 # see above for port1
 ![image](https://user-images.githubusercontent.com/46744784/230608987-689d8dc6-2e7e-4141-bf19-0bda6ae7b095.png)
 ![add user name and password](https://user-images.githubusercontent.com/46744784/230609065-6fc89d32-ef35-426b-ab63-123464435fc6.png)
 
-
+## write some python code to publish message to the broker
+see code `emqx-python.py`
 
 
 
