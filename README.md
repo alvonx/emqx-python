@@ -25,7 +25,7 @@ container created
 
 - to access dashboard
 
-<server-ip>:port1
+http://<server-ip>:port1
 
 
 
