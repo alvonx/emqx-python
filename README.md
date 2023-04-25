@@ -38,6 +38,10 @@ http://server-ip:port1 # see above for port1
 ![add user name and password](https://user-images.githubusercontent.com/46744784/230609065-6fc89d32-ef35-426b-ab63-123464435fc6.png)
 
 ## write some python code to publish message to the broker
+
+- install paho-mqtt
+`pip install paho-mqtt`
+
 see code `emqx-python.py`
 
 
